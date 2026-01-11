@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "NEE Live(月曜日の歌) CDJ2022",
+  "base_artist": "sh",
+  "createdAt": "2026-01-11T00:40:37.920591Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live Forever",
+      "artist": "Shad",
+      "has_synced": false,
+      "path": "select/pl_01_Live_Forever_Shad.txt"
+    }
+  ]
+}
